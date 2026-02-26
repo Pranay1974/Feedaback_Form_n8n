@@ -1,4 +1,4 @@
-# AI-Powered Feedback & Todo Automation
+# AI-Powered Feedback
 
 ## Tech Used
 - n8n
